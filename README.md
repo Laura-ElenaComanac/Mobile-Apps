@@ -34,7 +34,7 @@
   
 <li>
       <a> 
-			  If offline, the local data will be fetched
+			  If offline, the local data will be fetched \\
         When back online, the data will be fetched from the server
         <img src="https://user-images.githubusercontent.com/57533863/152688429-4eb5a0a4-c90f-414f-931a-aa74760f0906.png">
       </a>
