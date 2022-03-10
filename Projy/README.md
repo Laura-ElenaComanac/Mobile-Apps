@@ -1,42 +1,55 @@
-# Flutter Mobile App for users management
+# Flutter Mobile App Social Network - Beginning
 ## Layered Client-Server architecture with Network Connection and Offline mode
 ## Moor Database for the frontend
 ## REST API and WebSocket connected app to Spring Boot Server
+## Figma generated Design
 
 <ul>
 <li>
       <a> 
-			  Show users from the server
-        <img src="https://user-images.githubusercontent.com/57533863/152688352-fe6804a0-db3e-4efb-a204-529a256d1e01.png">
+	      Login
+        <img src="https://user-images.githubusercontent.com/57533863/157675231-0b6371d9-9774-484d-b66e-e63eef11acbf.png">
       </a>
 </li>
 
 <li>
       <a> 
-			  Menu options
-        <img src="https://user-images.githubusercontent.com/57533863/152688377-14ad03a2-0b46-4770-9e75-a3d50f9cc3d1.png">
+	      Register
+        <img src="https://user-images.githubusercontent.com/57533863/157675315-ffa927f6-0346-4909-a629-46c8474fea68.png">
       </a>
 </li>
 	
  <li>
       <a> 
-			  Delete operation
-        <img src="https://user-images.githubusercontent.com/57533863/152688390-8edc90fb-da54-4a09-9e0d-5869fe377160.png">
+	      Home Feed
+        <img src="https://user-images.githubusercontent.com/57533863/157675394-e1327d6e-4197-40fb-9b3f-d6d41a844d94.png">
       </a>
 </li>
 	
 <li>
       <a> 
-			  Add and Update operations
-        <img src="https://user-images.githubusercontent.com/57533863/152688416-4ef02037-7e07-44b4-932b-53595caca32d.png">
+	      Menu
+        <img src="https://user-images.githubusercontent.com/57533863/157675485-4a648741-2550-456e-99c9-61c2e1490806.png">
+      </a>
+</li>
+	
+<li>
+      <a> 
+	      Post
+        <img src="https://user-images.githubusercontent.com/57533863/157675557-96d95221-2fbc-491c-aa86-61f278a04c01.png">
+      </a>
+</li>
+	
+<li>
+      <a> 
+	      Update Profile
+        <img src="https://user-images.githubusercontent.com/57533863/157675678-97e7de08-b94d-42ef-9fa4-ed6e01b51bea.png">
       </a>
 </li>
   
 <li>
       <a> 
-			  If offline, the local data will be fetched //
-        When back online, the data will be fetched from the server
-        <img src="https://user-images.githubusercontent.com/57533863/152688429-4eb5a0a4-c90f-414f-931a-aa74760f0906.png">
+	If offline, the local data will be fetched // When back online, the data will be fetched from the server.
       </a>
 </li>
 </ul>
