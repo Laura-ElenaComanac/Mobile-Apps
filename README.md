@@ -2,7 +2,7 @@
 
 <ul>
 <li>
-      <a href=""> 
+      <a href="https://github.com/Laura-ElenaOlaru/Mobile-Apps/tree/main/Projy"> 
 	      Projy
         <img src="https://user-images.githubusercontent.com/57533863/157671458-5de93f20-7861-4ef9-940c-12a9d1d6bf56.png">
       </a>
