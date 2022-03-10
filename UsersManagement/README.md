@@ -1,4 +1,4 @@
-# Flutter Mobile App for users management
+# CRUD Flutter Mobile App for users management
 ## Layered Client-Server architecture with Network Connection and Offline mode
 ## Moor Database for the frontend
 ## REST API and WebSocket connected app to Spring Boot Server
